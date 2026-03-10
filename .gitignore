@@ -19,6 +19,7 @@
 /vm/
 
 /scripts/build-*.sh
+/scripts/package-release.sh
 /scripts/*qemu*.sh
 /scripts/*vm*.sh
 
