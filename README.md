@@ -36,10 +36,12 @@ Für den Betrieb mit `systemd` liegen diese Dateien im Repo:
 
 Die Clients liegen in eigenen Repositories:
 
-- `bluetodo-tui`
-- `bluetodo-win16`
-- `bluetodo-nt4ppc` (aktuell noch nicht fertig)
+- [`bluetodo-tui`](https://github.com/crazycusti/bluetodo-tui)
+- [`bluetodo-win16`](https://github.com/crazycusti/bluetodo-win16)
+- `bluetodo-nt4ppc` (aktuell noch lokal)
 
 ## Lizenz
 
 MIT, siehe `LICENSE`.
+
+Mit Hilfe von codex-cli ❤️ erstellt, danke!
